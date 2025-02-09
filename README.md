@@ -8,3 +8,5 @@
 
 
 3 - Importei a tabela tratada para o PowerBI e fiz a plotagem dos gráficos para análise.
+
+![BI](https://github.com/user-attachments/assets/55174c28-c4e5-4613-9d87-7846b1e647b5)
